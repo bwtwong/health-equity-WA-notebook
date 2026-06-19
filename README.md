@@ -1,5 +1,5 @@
 # Health Equity WA Notebook
-## First Nations Health and Equity — Research to Impact Navigator
+## Mapping and navigating sustainable impact in this space
 
 *A personal knowledge notebook, shared openly. Version 0.1 — incomplete by nature, as it corrects and evolves.*
 
