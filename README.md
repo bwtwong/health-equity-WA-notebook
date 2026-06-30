@@ -1,53 +1,42 @@
-# Health Equity WA Notebook
-## Mapping and navigating sustainable impact in this space
+# Health Equity Navigator — Western Australia
+## Financing and Ecosystem Map · First Nations Health and Equity
 
-*A personal knowledge notebook, shared openly. Version 0.1 — incomplete by nature, as it corrects and evolves.*
-
----
-
-## Thinking behind this notebook
-
-Health is fundamentally a universal human right. In our modern, complex, and globally interconnected world, it is also economic, political, legal, and cultural. Sustainable health equity pursued against a backdrop of structural disempowerment is a losing game.
-
-Health equity has the evidence. It has the people. It is starting to have the finance. But it is still a systems challenge, which means change must travel across all three levels: individual, community, and structural, before it is realised.
-
-There is no shortage of promising ideas and solutions to effect change in health outcomes. What health equity also needs is better architecture for change to work. This starts with understanding the unique environments in which we live and operate in. Ideally, the environment is well connected to cultivate change for the common good. That means appropriate ideas and solutions are readily enhanced with good design, which become multifaceted vehicles fluent enough to operate at all three levels (sequentially or simultaneously). Otherwise, given the existing people, evidence and resources, just start creating that environment for the change. Health equity is the entry point. Structural empowerment is the destination.
-
-This notebook is built through this lens. It starts with learning the players, understanding the landscape, and knowing what drives sustainable and equitable structural change from underneath. Clarity reveals more possibilities than you can create in a fog.
+*A financing navigation tool, built openly. Version 0.2 — incomplete by nature, as it corrects and evolves.*
 
 ---
 
-## Positionality
+## What this is
 
-This notebook is focused on health equity in WA, first looking at First Nations Health and Equity. I am a non-Aboriginal person working in First Nations Health and Equity. I was born and raised in Singapore. Currently living in Boorloo (Perth), on Whadjuk Noongar Boodja, Western Australia. I joined this world in 2020 through innovative research and stayed because I believe sustainable health equity works best when structurally supported to achieve community empowerment and self-determination. I am curious and passionate about advancing equitable access to healthcare, especially in underserved communities across ASEAN and Australia.
+A map of the health equity ecosystem in Western Australia, built specifically to help people **outside** the ecosystem understand how it works, how it is financed, and where new resources and capabilities are most needed.
 
-This living notebook accumulates some thoughts and perspectives I have fortuitously gained while traversing countries, worlds and ecosystems. I am sharing it because I think it might be useful to others. And because the work gets better when more people can see it, question it, and add to it.
+It is not a comprehensive account of First Nations health equity. That knowledge belongs to communities and to the organisations they control,including NACCHO, AHCWA, KAMS, and the ACCHOs that have been delivering community-controlled health for 50+ years.
 
-Please use knowledge in this notebook as a navigator, not an endorsement. And remember, this living notebook is incomplete by nature, as it corrects and evolves. Come in from wherever you are.
+This tool is built for the funder who wants to invest but can't see the landscape. The startup that wants to build something useful but doesn't know what co-design actually requires. The researcher whose evidence isn't reaching the people who could act on it. The policymaker trying to understand where new capital could go.
 
----
-
-## About this map
-
-Built by a researcher and Claude (Anthropic AI) from publicly available sources on the internet. Not independently fact-checked. Direct links are provided wherever possible so you can verify at the source.
-
-**Use this as a launchpad, not a landing place.** Follow the links. Talk to the organisations directly. Verify before you act.
-
-Inclusion of any organisation is not an endorsement. It reflects active work in health equity, education, or community empowerment at time of research — nothing more.
-
-See something wrong or missing? This is an open notebook. Contribute or correct via GitHub.
+Its purpose is to route people **toward** First Nations-led structures, not to speak for them or substitute for them.
 
 ---
 
-## Inclusion criteria
+## Who built this and why
 
-Every organisation, mechanism, and pathway in this notebook meets at least one of the following:
+Built by a global health researcher with several years of experience focused on research translation with diagnostics, remote health and First Nations health contexts in WA. Born and raised in Singapore, living on Whadjuk Noongar Boodja. Venturing in ASEAN-Australian Health.
 
-1. **Health equity** — active programs or investment targeting First Nations or broader health equity outcomes
-2. **Education** — investment in knowledge, capability, or workforce development at community level
-3. **Community empowerment** — anything that increases community agency, structural capacity, or financial independence: legal empowerment, Indigenous-controlled capital, cooperative models, data sovereignty, political voice, economic participation
+I built this to facilitate conversations for people who want to act in this space but could not see how the ecosystem connected, especially how capital flows, what the evidence base actually supports, and what community governance genuinely requires. I am one of those people. This is the tool I wish I had when I first started.
 
-Inclusion is not an endorsement of broader organisational practices, investment performance, or values. Where relevant, individual nodes carry specific caveats.
+I am not an authority on First Nations communities, governance, or culture. Where this tool gets things wrong (and it will), I want to know. Contributions from people with direct community and governance knowledge are actively sought, will be named, and will take priority.
+
+---
+
+## The financing lens
+
+The most specific thing this navigator offers is a **financing architecture map**: who funds what, through which mechanisms, at what stage of program development, and with what dependency risk if a funder exits.
+
+This sits alongside:
+- The evidence base (what has been evaluated, to what standard)
+- The solution landscape (technical and adaptive, and why both matter)
+- The pathways (how solutions reach communities)
+- The barriers (operational, structural, and systemic)
+- The outcomes (what sustainable health equity actually looks like)
 
 ---
 
@@ -72,29 +61,21 @@ RESEARCH → SOLUTIONS → PATHWAYS → FINANCE → OUTCOMES
 
 **Outcomes** — self-determination and sovereignty, equity across life domains, sustained structural capability
 
-### The adaptive/technical distinction
+### Why the adaptive/technical distinction matters for investors
 
-Technical solutions deployed without adaptive work consistently fail. Adaptive work without technical solutions does not scale. They require different evidence standards, different measurement frameworks, and different finance mechanisms. The adaptive/technical lens runs across every column including finance.
-
-### Remote operational barriers
-
-A dedicated set of barrier nodes maps the logistical and operational realities of remote community contexts that technical solutions must navigate: transport and distance, workforce supply and turnover, supply chain and cold chain, digital inclusion gap, language and health literacy, housing and living conditions, connectivity infrastructure.
-
-### Startup pipeline
-
-Tech and social ventures are mapped as a distinct node group spanning both technical and adaptive columns, with their own finance pathway: accelerators and non-dilutive grants first, then patient capital (FAC, INCO First Australians Digitisation Fund), then impact investment at scale.
+Technical solutions deployed without adaptive work consistently fail. Adaptive work without technical solutions does not scale. They require different evidence standards, different measurement frameworks, and different finance mechanisms. Understanding this distinction is the most important thing an investor new to this space can learn.
 
 ---
 
 ## Platform architecture
 
-This notebook is designed as instance one of a replicable framework. The architecture generalises across ecosystems.
+This navigator is designed as instance one of a replicable framework. The architecture generalises across ecosystems.
 
 ```
 /platform              — shared framework
 /instances
-  /wa-health-equity    — this notebook
-  /[future]            — ASEAN, global Indigenous health, climate-health...
+  /wa-health-equity    — this navigator
+  /[future]            — ASEAN community health, global Indigenous health...
 ```
 
 Content lives in data files separate from code. Adding a new instance is a content exercise, not a rebuild.
@@ -103,11 +84,11 @@ Content lives in data files separate from code. Adding a new instance is a conte
 
 ## Principles
 
-- **Open notebook, not platform-locked** — the code is public, the content is editable, no vendor controls it
-- **AI-assisted, not AI-governed** — AI helps people navigate; it does not make decisions about communities or priorities
-- **Positionality first** — who built this, why, and from what position is named at the entry point
-- **Living document** — this will change, and that is the point
 - **Routes toward, not around** — every pathway directs people toward First Nations-led organisations and community-controlled structures
+- **Outsider-built, openly correctable** — built by someone outside the community, shared openly, designed to be corrected by people inside it
+- **Financing-first** — the specific contribution of this tool is making the capital architecture visible
+- **AI-assisted, not AI-governed** — AI helps people navigate; it does not make decisions about communities or priorities
+- **Living document** — this will change, and that is the point
 
 ---
 
